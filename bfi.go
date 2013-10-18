@@ -1,7 +1,7 @@
 package main
 
 import (
-	"bf"
+	"github.com/machinaut/bf"
 	"flag"
 	"fmt"
 	"os"
